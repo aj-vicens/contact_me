@@ -8,9 +8,9 @@ WhatsApp
 
 ## Email
 
-You can email me directly at any time at **avicens [at] motherjones [dot] com**. Keep in mind that standard email records [a lot of information](https://mediatemple.net/community/products/dv/204643950/understanding-an-email-header) about you and me (sender/receiver, time sent, from where, operating systems, etc.) In some cases the content of the email itself could be plainly visible to someone with the wherewithal to look for these sorts of things. If that's OK with you, go ahead and send me that email.
+You can email me directly at any time at `avicens [at] motherjones [dot] com`. Keep in mind that standard email records [a lot of information](https://mediatemple.net/community/products/dv/204643950/understanding-an-email-header) about you and me (sender/receiver, time sent, from where, operating systems, etc.) In some cases the content of the email itself could be plainly visible to someone with the wherewithal to look for these sorts of things. If that's OK with you, go ahead and send me that email.
 
-You can also find me at ProtonMail, which offers end-to-end encryption *between ProtonMail users* for free: `aj_vicens@prontonmail.com`
+You can also find me at [ProtonMail](https://protonmail.com/), which offers end-to-end encryption *between ProtonMail users* for free: `aj_vicens@prontonmail.com`
 
 Email / new PGP?
 Postal Address
