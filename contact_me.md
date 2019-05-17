@@ -13,4 +13,4 @@ You can email me directly at any time at **avicens [at] motherjones [dot] com**.
 Email / new PGP?
 Postal Address
 
-*I structured this page based on inspiration from the* LA Times' *[news tips](https://www.latimes.com/tips/) page, the* [ProPublica](https://www.propublica.org/leak-to-us/) *news tips page, and pages created by individual journalists such as TK and TK.*
+*I structured this page based on inspiration from the* LA Times' *[news tips](https://www.latimes.com/tips/) page, the* [ProPublica](https://www.propublica.org/leak-to-us/) *news tips page, and pages created by individual journalists such as [Chris Bing](https://medium.com/@Bing_Chris/how-to-contact-me-d2fd4bd3ed7b) and [Jenna McLaughlin](https://medium.com/@JennaMC_Laugh/securely-contacting-me-86e2b418b9b6).*
