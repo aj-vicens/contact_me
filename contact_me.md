@@ -4,7 +4,11 @@ I cover cybersecurity, national security, election security, technology, and dat
 
 ## Secure Messaging
 
-There are a variety of ways to call me directly, each with its own level of anonymity (or lackthereof). My direct number is `412.997.8575`, and you can call me there. Keep in mind that your call to me will be recorded by your phone provider (and mine). You can also send me SMS messages there but, again, the metadata associated with that SMS message will be plainly obvious.
+There are a variety of ways to call me directly, each with its own level of anonymity (or lackthereof). My direct number is:
+
+`412.997.8575`
+
+Keep in mind that your call to me will be recorded by your phone provider (and mine). You can also send me SMS messages there but, again, the metadata associated with that SMS message will be plainly obvious.
 
 ### Signal
 
