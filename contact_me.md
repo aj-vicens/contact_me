@@ -4,7 +4,7 @@ I cover cybersecurity, national security, election security, technology, and dat
 
 ## Secure Messaging
 
-There are a variety of ways to call me directly, each with its own level of anonymity (or lackthereof). My direct number is:
+There are a variety of ways to call me directly, each with its own level of anonymity (or lackthereof). My direct number:
 
 `412.997.8575`
 
