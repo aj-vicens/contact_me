@@ -8,7 +8,7 @@ There are a variety of ways to call me directly, each with its own level of anon
 
 `412.997.8575`
 
-Keep in mind that your call to me will be recorded by your phone provider (and mine). You can also send me SMS messages there but, again, the metadata associated with that SMS message will be plainly obvious.
+Keep in mind that metadata associated with your call to me will be recorded by your phone provider (and mine). You can also send me SMS messages there but, again, the metadata associated with that SMS message will be plainly obvious.
 
 ### Signal
 
