@@ -20,7 +20,9 @@ You can also reach me via WhatsApp at the same number above. The contents of the
 
 ## Email
 
-You can email me directly at any time at `avicens [at] motherjones [dot] com`. Keep in mind that standard email records [a lot of information](https://mediatemple.net/community/products/dv/204643950/understanding-an-email-header) about you and me (sender/receiver, time sent, from where, operating systems, etc.) In some cases the content of the email itself could be plainly visible to someone with the wherewithal to look for these sorts of things. If that's OK with you, go ahead and send me that email.
+You can email me directly at any time: `avicens [at] motherjones [dot] com`
+
+Keep in mind that standard email records [a lot of information](https://mediatemple.net/community/products/dv/204643950/understanding-an-email-header) about you and me (sender/receiver, time sent, from where, operating systems, etc.) In some cases the content of the email itself could be plainly visible to someone with the wherewithal to look for these sorts of things. If that's OK with you, go ahead and send me that email.
 
 You can send encrypted emails to this email address but, again, _**only the content**_ of the email will be encrypted. Subject lines, to/from, time/date, and other revealing information will still be transmitted openly for anyone who cares enough and has the means to look. If you still want to do this, attach your _**public**_ key to the email so I can use it to unlock the message. My fingerprint:
 
