@@ -2,10 +2,17 @@
 
 I cover cybersecurity, national security, election security, technology, and data for [Mother Jones](https://www.motherjones.com/). If you have something you think I should take a look at please don't hesitate to let me know. Each method of contact carries its own complications and level of anonymity. Please consider your risk level when reaching out. For instance, if sending sensitive materials your employer would not approve you sending, please don't use your work computer or phone.
 
-TO ADD:
-Signal
-WhatsApp
-Jabber/Chat
+## Secure Messaging
+
+There are a variety of ways to call me directly, each with its own level of anonymity (or lackthereof). My direct number is `412.997.8575`, and you can call me there. Keep in mind that your call to me will be recorded by your phone provider (and mine). You can also send me SMS messages there but, again, the metadata associated with that SMS message will be plainly obvious.
+
+### Signal
+
+To message me anonymously and securely you can reach me via Signal, a free app that provides end-to-end encryption. To prevent having to add me into your contacts on your phone, open the message and begin a new message and the service will find my phone number, allowing you to send your message. The service will not collect metadata about who you are contacting, only your phone number and the last time you accessed the service. If you're worried about me having your phone number, consider using a different phone with the Signal app installed.
+
+### WhatsApp
+
+You can also reach me via WhatsApp at the same number above. The contents of the message will be encrypted end-to-end, but the metadata associated with the message will likely be retained by WhatsApp (it is part of Facebook, after all).
 
 ## Email
 
