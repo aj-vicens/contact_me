@@ -12,11 +12,11 @@ Keep in mind that metadata associated with your call to me will be recorded by y
 
 ### Signal
 
-To message me anonymously and securely you can reach me via Signal, a free app that provides end-to-end encryption. To prevent having to add me into your contacts on your phone, open the message and begin a new message and the service will find my phone number, allowing you to send your message. The service will not collect metadata about who you are contacting, only your phone number and the last time you accessed the service. If you're worried about me having your phone number, consider using a different phone with the Signal app installed.
+To message me anonymously and securely at the phone number above you can reach me via [Signal](https://signal.org/), a free app that provides end-to-end encryption. To prevent having to add me into your contacts on your phone, open the message and begin a new message and the service will find my phone number, allowing you to send your message. The service will not collect metadata about who you are contacting, only your phone number and the last time you accessed the service. If you're worried about me having your phone number consider using a different phone with the Signal app installed.
 
 ### WhatsApp
 
-You can also reach me via WhatsApp at the same number above. The contents of the message will be encrypted end-to-end, but the metadata associated with the message will likely be retained by WhatsApp (it is part of Facebook, after all).
+You can also reach me via WhatsApp at the same number above. The contents of the message will be encrypted end-to-end, but the metadata associated with the message will likely be retained by [WhatsApp](https://www.whatsapp.com/) (it is part of Facebook, after all).
 
 ## Email
 
