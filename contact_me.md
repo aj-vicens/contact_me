@@ -26,7 +26,7 @@ Keep in mind that standard email records [a lot of information](https://mediatem
 
 You can send encrypted emails to this email address but, again, _**only the content**_ of the email will be encrypted. Subject lines, to/from, time/date, and other revealing information will still be transmitted openly for anyone who cares enough and has the means to look. If you still want to do this, attach your _**public**_ key to the email so I can use it to unlock the message. My fingerprint:
 
-`5070 96FC CDC3 5A96 2748  3794 6E70 DEEE 30B2 1358`
+`8A3F 5FDC 719A D5AD F401  FF92 D7CE 581F 56E0 8029`
 
 You can also find me at [ProtonMail](https://protonmail.com/), which offers end-to-end encryption *between ProtonMail users* for free: `aj_vicens [at] prontonmail [dot] com`.
 
