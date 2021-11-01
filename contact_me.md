@@ -1,12 +1,12 @@
 # Get In Touch With Me
 
-I cover cybersecurity, national security, election security, technology, and data for [Mother Jones](https://www.motherjones.com/). If you have something you think I should take a look at please don't hesitate to let me know. Each method of contact carries its own complications and level of anonymity. Please consider your risk level when reaching out. For instance, if sending sensitive materials your employer would not approve you sending, please don't use your work computer or phone.
+I cover cybersecurity, national security, election security, technology, and data for [CyberScoop](https://www.cyberscoop.com/). If you have something you think I should take a look at please don't hesitate to let me know. Each method of contact carries its own complications and level of anonymity. Please consider your risk level when reaching out. For instance, if sending sensitive materials your employer would not approve you sending, please don't use your work computer or phone.
 
 ## Secure Messaging
 
 There are a variety of ways to call me directly, each with its own level of anonymity (or lackthereof). My direct number:
 
-`412.997.8575`
+`810.206.9411`
 
 Keep in mind that metadata associated with your call to me will be recorded by your phone provider (and mine). You can also send me SMS messages there but, again, the metadata associated with that SMS message will be plainly obvious.
 
@@ -20,7 +20,7 @@ You can also reach me via WhatsApp at the same number above. The contents of the
 
 ## Email
 
-You can email me directly at any time: `avicens [at] motherjones [dot] com`
+You can email me directly at any time: `aj [dot] vicens [at] cyberscoop [dot] com`
 
 Keep in mind that standard email records [a lot of information](https://mediatemple.net/community/products/dv/204643950/understanding-an-email-header) about you and me (sender/receiver, time sent, from where, operating systems, etc.) In some cases the content of the email itself could be plainly visible to someone with the wherewithal to look for these sorts of things. If that's OK with you, go ahead and send me that email.
 
