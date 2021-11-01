@@ -1,6 +1,6 @@
 # Get In Touch With Me
 
-I cover cybersecurity, national security, election security, technology, and data for [CyberScoop](https://www.cyberscoop.com/). If you have something you think I should take a look at please don't hesitate to let me know. Each method of contact carries its own complications and level of anonymity. Please consider your risk level when reaching out. For instance, if sending sensitive materials your employer would not approve you sending, please don't use your work computer or phone.
+I cover cyber crime, nation-state threats, and election security for [CyberScoop](https://www.cyberscoop.com/). If you have something you think I should take a look at please don't hesitate to let me know. Each method of contact carries its own complications and level of anonymity. Please consider your risk level when reaching out. For instance, if sending sensitive materials your employer would not approve you sending, please don't use your work computer or phone.
 
 ## Secure Messaging
 
