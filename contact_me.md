@@ -18,15 +18,20 @@ To message me anonymously and securely at the phone number above you can reach m
 
 You can also reach me via WhatsApp at the same number above. The contents of the message will be encrypted end-to-end, but the metadata associated with the message will likely be retained by [WhatsApp](https://www.whatsapp.com/) (it is part of Facebook, after all).
 
+### Wire
+
+You can find me on [Wire](https://wire.com/en/), another end-to-end chat platform at: `aj_v_cs`
+
+### Discord
+
+I'm on Discord as `ajvicens`
+
 ## Email
 
 You can email me directly at any time: `aj [dot] vicens [at] cyberscoop [dot] com`
 
 Keep in mind that standard email records [a lot of information](https://mediatemple.net/community/products/dv/204643950/understanding-an-email-header) about you and me (sender/receiver, time sent, from where, operating systems, etc.) In some cases the content of the email itself could be plainly visible to someone with the wherewithal to look for these sorts of things. If that's OK with you, go ahead and send me that email.
 
-You can send encrypted emails to this email address but, again, _**only the content**_ of the email will be encrypted. Subject lines, to/from, time/date, and other revealing information will still be transmitted openly for anyone who cares enough and has the means to look. If you still want to do this, attach your _**public**_ key to the email so I can use it to unlock the message. My fingerprint:
-
-`8A3F 5FDC 719A D5AD F401  FF92 D7CE 581F 56E0 8029`
 
 You can also find me at [ProtonMail](https://protonmail.com/), which offers end-to-end encryption *between ProtonMail users* for free: `aj_vicens [at] prontonmail [dot] com`.
 
