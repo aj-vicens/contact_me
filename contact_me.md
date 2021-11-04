@@ -26,6 +26,10 @@ You can find me on [Wire](https://wire.com/en/), another end-to-end chat platfor
 
 I'm on Discord as `ajvicens`
 
+### Keybase
+
+Find me at `aj_vicens`
+
 ## Email
 
 You can email me directly at any time: `aj [dot] vicens [at] cyberscoop [dot] com`
