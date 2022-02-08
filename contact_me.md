@@ -30,6 +30,10 @@ I'm on Discord as `ajvicens`
 
 Find me at `aj_vicens`
 
+### Tox
+
+You can find me on Tox as `aj_vicens`. Tox ID: E38AB84DBA10811E2608FCBF5709DDFF9E92652953AFFD7A5067E048837CCC7BEC986E8218D4
+
 ## Email
 
 You can email me directly at any time: `aj [dot] vicens [at] cyberscoop [dot] com`
