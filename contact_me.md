@@ -24,7 +24,7 @@ You can find me on [Wire](https://wire.com/en/), another end-to-end chat platfor
 
 ### Discord
 
-I'm on Discord as `ajvicens`
+I'm on Discord as `aj.vicens`
 
 ### Keybase
 
