@@ -16,7 +16,7 @@ To message me anonymously and securely at the phone number above you can reach m
 
 ### Telegram
 
-You can reach me on Telegram at `@avicens_cs`
+You can reach me on [Telegram](https://telegram.org/) at `@avicens_cs`
 
 ### WhatsApp
 
