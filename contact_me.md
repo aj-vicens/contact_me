@@ -1,6 +1,6 @@
 # Get In Touch With Me
 
-I cover cybercrime, nation-state threats, and election security for [CyberScoop](https://www.cyberscoop.com/). If you have something you think I should take a look at please don't hesitate to let me know. Each method of contact carries its own complications and level of anonymity. Please consider your risk level when reaching out. For instance, if sending sensitive materials your employer would not approve you sending, please don't use your work computer or phone.
+I cover cybercrime, nation-state threats, election security and more for [Reuters](https://www.reuters.com/). If you have something you think I should take a look at please don't hesitate to let me know. Each method of contact carries its own complications and level of anonymity. Please consider your risk level when reaching out. For instance, if sending sensitive materials your employer would not approve you sending, please don't use your work computer or phone.
 
 ## Secure Messaging
 
@@ -22,17 +22,10 @@ You can reach me on [Telegram](https://telegram.org/) at `@avicens_cs`
 
 You can also reach me via WhatsApp at the same number above. The contents of the message will be encrypted end-to-end, but the metadata associated with the message will likely be retained by [WhatsApp](https://www.whatsapp.com/) (it is part of Facebook, after all).
 
-### Wire
-
-You can find me on [Wire](https://wire.com/en/), another end-to-end chat platform at: `aj_v_cs`
 
 ### Discord
 
 I'm on Discord as `aj.vicens`
-
-### Keybase
-
-Find me at `aj_vicens`
 
 ### Tox
 
@@ -40,7 +33,7 @@ You can find me on Tox as `aj_vicens`. Tox ID: 909495FC6562F3E53ACD85FAD16F1E016
 
 ## Email
 
-You can email me directly at any time: `aj [dot] vicens [at] cyberscoop [dot] com`
+You can email me directly at any time: `a [dot] j [dot] vicens [at] thomsonreuters [dot] com`
 
 Keep in mind that standard email records [a lot of information](https://mediatemple.net/community/products/dv/204643950/understanding-an-email-header) about you and me (sender/receiver, time sent, from where, operating systems, etc.) In some cases the content of the email itself could be plainly visible to someone with the wherewithal to look for these sorts of things. If that's OK with you, go ahead and send me that email.
 
