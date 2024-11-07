@@ -6,7 +6,7 @@ I cover cybercrime, nation-state threats, election security and more for [Reuter
 
 There are a variety of ways to call me directly, each with its own level of anonymity (or lackthereof). My direct number:
 
-`810.206.9411`
+`+1 651.263.1318`
 
 Keep in mind that metadata associated with your call to me will be recorded by your phone provider (and mine). You can also send me SMS messages there but, again, the metadata associated with that SMS message will be plainly obvious.
 
